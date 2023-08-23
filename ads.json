@@ -12,5 +12,20 @@
         "tags": [
             "openid-connect"
         ]
+    },
+    "second": {
+        "projectName": "second",
+        "description": "second",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-dev",
+        "githubUri": "https://github.com/kdhttps/ads-dev",
+        "license": "MIT",
+        "lastUpdated": "1692813995283",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
     }
 }
