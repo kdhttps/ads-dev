@@ -26,6 +26,8 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [
+            "kdhttps.co.basic"
+        ]
     }
 }
