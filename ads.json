@@ -34,7 +34,9 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": [],
+        "noDirectLaunch": [
+            "kdhttps.co.second"
+        ],
         "configs": {
             "kdhttps.co.second": {
                 "second_key": "sadsddsfds8f8dsf88d8fd8fd8f"
