@@ -62,7 +62,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"configParams": "{}",
-					"nodeIcon": "octicon:log-16"
+					"nodeIcon": "octicon:log-16",
+					"hasComment": true
 				},
 				"skake": false
 			},
