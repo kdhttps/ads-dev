@@ -13,7 +13,8 @@
             "openid-connect"
         ],
         "noDirectLaunch": [
-            "kdhttps.co.second"
+            "kdhttps.co.second",
+            "kdhttps.co.basic"
         ],
         "configs": {
             "kdhttps.co.second": {
