@@ -44,7 +44,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "\"sdsd",
+					"logMessage": "\"sdsd\"",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -65,7 +65,7 @@
 					"nodeIcon": "octicon:log-16",
 					"hasComment": true
 				},
-				"skake": false
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
