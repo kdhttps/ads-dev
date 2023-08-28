@@ -1,3 +1,18 @@
-// 
 Flow kdhttps.co.basic
      Basepath ""
+// Create Auth Service Instance
+authService = Call io.jans.as.server.service.AuthenticationService#class 
+cdiUtil = Call io.jans.service.cdi.util.CdiUtil#bean authService
+authResult = {}
+// Retry 3 times if username and password are wrong
+Repeat 3 times max
+     // Load the login page to ask user credentials
+     creds = RRF "login.ftlh" authResult
+     authResult.success = Call cdiUtil authenticate creds.username creds.password
+     // Keep username in case auth failed for retry
+     authResult.uid = creds.username
+     // Check auth result is true
+     When authResult.success is true
+          // End flow by returning authResult.uid
+          Finish authResult.uid
+Finish false
