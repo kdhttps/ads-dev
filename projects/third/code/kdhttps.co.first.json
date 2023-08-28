@@ -5,8 +5,8 @@
 			"height": 121,
 			"id": "Agama-log-Node-4eac9201-f5e1-431c-8fc6-dbe85ee15323",
 			"position": {
-				"x": 245,
-				"y": 65
+				"x": 391,
+				"y": 134
 			},
 			"type": "log",
 			"data": {
@@ -16,8 +16,8 @@
 				"whenCondition": "",
 				"inRepeatBlock": false,
 				"position": {
-					"x": 245,
-					"y": 65
+					"x": 391,
+					"y": 134
 				},
 				"agamaData": {
 					"id": "Agama-log-Node-4eac9201-f5e1-431c-8fc6-dbe85ee15323",
@@ -44,7 +44,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "\"sdsd\"",
+					"logMessage": "\"sdsd",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -63,13 +63,14 @@
 					"exceptionVariableField": "",
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 245,
-				"y": 65
+				"x": 391,
+				"y": 134
 			}
 		},
 		{
@@ -136,7 +137,7 @@
 				"x": 45,
 				"y": 65
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 45,
 				"y": 65
