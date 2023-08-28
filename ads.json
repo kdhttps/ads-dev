@@ -28,7 +28,10 @@
         ],
         "noDirectLaunch": [
             "kdhttps.co.basic"
-        ]
+        ],
+        "configs": {
+            "kdhttps.co.first": {}
+        }
     },
     "third": {
         "projectName": "third",
