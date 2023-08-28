@@ -48,6 +48,11 @@
         "tags": [
             "openid-connect"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "kdhttps.co.first": {
+                "first_key": "sdfdf8sf7sdf66df6sdf6dsf6sf6f6"
+            }
+        }
     }
 }
