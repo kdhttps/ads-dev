@@ -30,7 +30,9 @@
             "kdhttps.co.basic"
         ],
         "configs": {
-            "kdhttps.co.first": {}
+            "kdhttps.co.first": {
+                "first_key": "asd3ds3re"
+            }
         }
     },
     "third": {
