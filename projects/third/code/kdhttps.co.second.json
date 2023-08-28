@@ -44,7 +44,7 @@
 					],
 					"callType": "Call static method",
 					"arguments": "",
-					"logMessage": "\"userinfo\"",
+					"logMessage": "\"userinfo",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -63,7 +63,8 @@
 					"exceptionVariableField": "",
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
