@@ -1,18 +1,4 @@
 {
-    "first": {
-        "projectName": "first",
-        "description": "first",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/kdhttps/ads-dev",
-        "githubUri": "https://github.com/kdhttps/ads-dev",
-        "license": "MIT",
-        "lastUpdated": "1691587871693",
-        "tags": [
-            "openid-connect"
-        ]
-    },
     "second": {
         "projectName": "second",
         "description": "second",
