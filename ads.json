@@ -46,6 +46,9 @@
         "configs": {
             "kdhttps.co.basic": {
                 "key": "dfdfdfdfdfdd"
+            },
+            "kdhttps.co.first": {
+                "secret": "secret"
             }
         }
     }
