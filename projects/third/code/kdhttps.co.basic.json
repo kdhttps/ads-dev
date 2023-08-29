@@ -61,7 +61,8 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -139,7 +140,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -216,7 +218,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -296,7 +299,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -367,7 +371,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "authResult.success"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -446,7 +451,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"positionAbsolute": {
@@ -521,7 +527,8 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -597,7 +604,8 @@
 							"assignedVariableName": "authResult"
 						}
 					]
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -665,7 +673,8 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:code",
 					"asssignedVariableName": "cdiUtil"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -741,9 +750,10 @@
 						}
 					],
 					"hasComment": true
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 234,
@@ -760,8 +770,8 @@
 				"id": "Agama-start-Flow-5c21c129-3371-4770-93fa-25d89476e32a",
 				"type": "Agama-start-Flow",
 				"position": {
-					"x": 30,
-					"y": 30
+					"x": -6,
+					"y": 119
 				},
 				"handles": [],
 				"agamaData": {
@@ -798,18 +808,29 @@
 					"displayName": "Basic Flow",
 					"nodeColor": "",
 					"exceptionVariableField": "",
-					"flowname": "kdhttps.co.basic"
-				}
+					"flowname": "kdhttps.co.basic",
+					"nodeIcon": "material-symbols:line-start-square",
+					"isTopLevelFlow": true,
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
+					"configParams": "{\n  \"client\": {\n    \"id\": \"sdsdf34rdsf3rref\",\n    \"secret\": \"sdf4rff3rxxxxdsr3e\"\n  }\n}"
+				},
+				"skake": false
 			},
 			"position": {
-				"x": 30,
-				"y": 30
+				"x": -6,
+				"y": 119
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 30,
-				"y": 30
+				"x": -6,
+				"y": 119
 			}
 		}
 	],
@@ -989,8 +1010,8 @@
 		}
 	],
 	"viewport": {
-		"x": 213.19500732421875,
-		"y": 71.30000000000001,
-		"zoom": 0.5
+		"x": 10,
+		"y": 15,
+		"zoom": 1
 	}
 }
