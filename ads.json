@@ -28,28 +28,5 @@
                 "first_key": "sdfdf8sf7sdf66df6sdf6dsf6sf6f6"
             }
         }
-    },
-    "four": {
-        "projectName": "four",
-        "description": "four",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.1",
-        "authorWebsite": "https://github.com/kdhttps/ads-dev",
-        "githubUri": "https://github.com/kdhttps/ads-dev",
-        "license": "MIT",
-        "lastUpdated": "1693313864856",
-        "tags": [
-            "openid-connect"
-        ],
-        "noDirectLaunch": [],
-        "configs": {
-            "kdhttps.co.basic": {
-                "key": "dfdfdfdfdfdd"
-            },
-            "kdhttps.co.first": {
-                "secret": "secret"
-            }
-        }
     }
 }
