@@ -44,7 +44,9 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "kdhttps.co.basic": {}
+            "kdhttps.co.basic": {
+                "key": "dfdfdfdfdfdd"
+            }
         }
     }
 }
