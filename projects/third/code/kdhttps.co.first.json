@@ -65,9 +65,9 @@
 					"nodeIcon": "octicon:log-16",
 					"hasComment": true
 				},
-				"skake": true
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 391,
@@ -85,7 +85,7 @@
 				"type": "Agama-start-Flow",
 				"position": {
 					"x": 45,
-					"y": 65
+					"y": 122
 				},
 				"inRepeatBlock": false,
 				"agamaData": {
@@ -136,12 +136,12 @@
 			},
 			"position": {
 				"x": 45,
-				"y": 65
+				"y": 122
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 45,
-				"y": 65
+				"y": 122
 			},
 			"dragging": false
 		}
