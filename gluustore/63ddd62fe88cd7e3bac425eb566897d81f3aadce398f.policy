@@ -1,0 +1,11 @@
+@id("driver access")
+permit
+(
+      principal == Jans::Role::"Driver",
+      action in [Jans::Action::"Compare",Jans::Action::"Execute"],
+      resource == Jans::Application::"Driver"
+      )
+when
+{
+Jans::Access_token::"xxx".scope=="xxx" && Jans::Access_token::"abc".scope == "Read" 
+};
