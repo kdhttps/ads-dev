@@ -100,8 +100,10 @@
 					"descColor": "",
 					"displayName": "",
 					"hasComment": true,
-					"comment": ""
-				}
+					"comment": "",
+					"asssignedVariableName": " "
+				},
+				"skake": false
 			},
 			"measured": {
 				"width": 170,
