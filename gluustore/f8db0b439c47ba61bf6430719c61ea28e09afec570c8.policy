@@ -1,0 +1,9 @@
+@id("admin access")
+        permit
+        (
+      principal == Jans::Role::"Admin",
+      action,
+      resource
+      )
+        when {Jans::Access_token::"abc".scope=="asd" && Jans::Access_token::"xxx".scope == "xxx" };
+      
