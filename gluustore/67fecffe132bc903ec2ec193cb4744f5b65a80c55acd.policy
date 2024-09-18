@@ -1,0 +1,8 @@
+@id("support access")
+permit
+(
+      principal == Jans::Role::"Support",
+      action,
+      resource
+      )
+when {Jans::Access_token::"abc".scope=="support" && Jans::Access_token::"abc".scope == "read" };
