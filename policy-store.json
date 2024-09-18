@@ -3,11 +3,6 @@
         "name": "gluustore",
         "description": "gluu",
         "policies": {
-            "e77e0f6cdbd3e9842f16859d02e2eadb23c0b4b63925": {
-                "description": "driver access",
-                "creation_date": "2024-09-18T13:53:57.581117",
-                "policy_content": "QGlkKCJkcml2ZXIgYWNjZXNzIikKcGVybWl0CigKICAgICAgcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJEcml2ZXIiLAogICAgICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNvbXBhcmUiLEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiXSwKICAgICAgcmVzb3VyY2UgPT0gSmFuczo6QXBwbGljYXRpb246OiJEcml2ZXIiCiAgICAgICkKd2hlbgp7CkphbnM6OkFjY2Vzc190b2tlbjo6Inh4eCIuc2NvcGU9PSJ4eHgiICYmIEphbnM6OkFjY2Vzc190b2tlbjo6ImFiYyIuc2NvcGUgPT0gIlJlYWQiIAp9Ow=="
-            },
             "63ddd62fe88cd7e3bac425eb566897d81f3aadce398f": {
                 "description": "driver access",
                 "creation_date": "2024-09-18T13:54:28.007047",
