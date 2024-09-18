@@ -1,1 +1,18 @@
-{}
+{
+    "gluu": {
+        "projectName": "gluu",
+        "description": "gluu",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/ads-dev",
+        "githubUri": "https://github.com/kdhttps/ads-dev",
+        "license": "apache-2.0",
+        "lastUpdated": "1726651454295",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
