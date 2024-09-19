@@ -1,0 +1,8 @@
+@id("support")
+forbid
+(
+ principal,
+ action,
+ resource
+)
+;
