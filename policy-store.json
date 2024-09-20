@@ -12,6 +12,11 @@
                 "description": "manager access",
                 "creation_date": "2024-09-20T18:11:26.442574",
                 "policy_content": "QGlkKCJtYW5hZ2VyIGFjY2VzcyIpCnBlcm1pdAooCiBwcmluY2lwYWwsCiBhY3Rpb24sCiByZXNvdXJjZQopCndoZW4KewogSmFuczo6QWNjZXNzX3Rva2VuOjoieHh4Ii5zY29wZT09Inh4eCIgfHwgSmFuczo6aWRfdG9rZW46OiJpZHh4eCIuYW1yPT0iaWR4eHgiICYmIGNvbnRleHQubmV0d29yay5pc0luUmFuZ2UoaXAoIjIyMi4yMjIuMjIyLjAvMjQiKSkgIAp9Ow=="
+            },
+            "f2b38413cad977ab21616bd4a63c233548491cf25b72": {
+                "description": "manager access",
+                "creation_date": "2024-09-20T18:11:37.774401",
+                "policy_content": "QGlkKCJtYW5hZ2VyIGFjY2VzcyIpCnBlcm1pdAooCiBwcmluY2lwYWwsCiBhY3Rpb24sCiByZXNvdXJjZQopCndoZW4KewogSmFuczo6QWNjZXNzX3Rva2VuOjoieHh4Ii5zY29wZT09Inh4eCIgfHwgSmFuczo6aWRfdG9rZW46OiJpZHh4eCIuYW1yPT0iaWR4eHgiICYmIGNvbnRleHQubmV0d29yay5pc0luUmFuZ2UoaXAoIjIyMi4yMjIuMjIyLjAvMjQiKSkgIAp9Ow=="
             }
         },
         "identity_source": {},
