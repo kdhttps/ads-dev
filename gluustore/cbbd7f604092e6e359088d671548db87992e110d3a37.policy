@@ -1,9 +1,0 @@
-@id("admin")
-        permit
-        (
-      principal null gluu::null::"admin",
-      action in [gluu::Action::"Execute"],
-      resource == gluu::Application::"as"
-      )
-        when {aas=="asa" };
-      
