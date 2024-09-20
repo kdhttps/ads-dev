@@ -17,6 +17,11 @@
                 "description": "support",
                 "creation_date": "2024-09-19T14:15:22.283428",
                 "policy_content": "QGlkKCJzdXBwb3J0IikKZm9yYmlkCigKIHByaW5jaXBhbCwKIGFjdGlvbiwKIHJlc291cmNlCikKOw=="
+            },
+            "50c19f9b35b58e1a02f013e3b691a2669532ace5ba3b": {
+                "description": "manager",
+                "creation_date": "2024-09-20T09:46:01.338134",
+                "policy_content": "QGlkKCJtYW5hZ2VyIikKcGVybWl0CigKIHByaW5jaXBhbCA9PSBKYW5zOjpSb2xlOjoiTWFuYWdlciIsCiBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6Ik1vbml0b3IiLEphbnM6OkFjdGlvbjo6IlNlYXJjaCIsSmFuczo6QWN0aW9uOjoiV3JpdGUiXSwKIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoiTWFuYWdlclBvcnRhbCIKKQp3aGVuCnsKIEphbnM6OkFjY2Vzc190b2tlbjo6ImFiYyIuc2NvcGU9PSJhYmMiICYmIEphbnM6OmlkX3Rva2VuOjoiaWR4eHgiLmFtciA9PSAiaWR4eHgiICAKfTs="
             }
         },
         "identity_source": {},
