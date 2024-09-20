@@ -1,0 +1,11 @@
+@id("tree cond")
+permit
+(
+ principal,
+ action in [Jans::Action::"Compare",Jans::Action::"Write",Jans::Action::"Search"],
+ resource
+)
+when
+{
+ Jans::Access_token::"abc".scope=="abc" && context.device_health == ["abc"] && context.network.isInRange(ip("222.222.222.0/24")) || Jans::id_token::"abc".exp<1234  
+};
