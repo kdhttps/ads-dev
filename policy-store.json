@@ -8,11 +8,6 @@
                 "creation_date": "2024-09-18T13:54:28.007047",
                 "policy_content": "QGlkKCJkcml2ZXIgYWNjZXNzIikKcGVybWl0CigKICAgICAgcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJEcml2ZXIiLAogICAgICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNvbXBhcmUiLEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiXSwKICAgICAgcmVzb3VyY2UgPT0gSmFuczo6QXBwbGljYXRpb246OiJEcml2ZXIiCiAgICAgICkKd2hlbgp7CkphbnM6OkFjY2Vzc190b2tlbjo6Inh4eCIuc2NvcGU9PSJ4eHgiICYmIEphbnM6OkFjY2Vzc190b2tlbjo6ImFiYyIuc2NvcGUgPT0gIlJlYWQiIAp9Ow=="
             },
-            "914a405aa6a5c0cf45660086c2b0a18a3c81da8e84aa": {
-                "description": "support",
-                "creation_date": "2024-09-19T14:15:22.283428",
-                "policy_content": "QGlkKCJzdXBwb3J0IikKZm9yYmlkCigKIHByaW5jaXBhbCwKIGFjdGlvbiwKIHJlc291cmNlCikKOw=="
-            },
             "50c19f9b35b58e1a02f013e3b691a2669532ace5ba3b": {
                 "description": "manager",
                 "creation_date": "2024-09-20T09:46:01.338134",
