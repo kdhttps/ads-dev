@@ -7,6 +7,11 @@
                 "description": "admin access",
                 "creation_date": "2024-09-20T17:22:39.996050",
                 "policy_content": "QGlkKCJhZG1pbiBhY2Nlc3MiKQpwZXJtaXQKKAogcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJBZG1pbiIsCiBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNvbXBhcmUiLEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiXSwKIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoiQWRtaW4iCikKd2hlbgp7CiBKYW5zOjpBY2Nlc3NfdG9rZW46OiJhYmMiLnNjb3BlPT0iYWJjIiAmJiBKYW5zOjppZF90b2tlbjo6ImlkeHh4Ii5hbXI9PSJpZHh4eCIgIAp9Ow=="
+            },
+            "c4bd2e8ed3b95697d574ee2ed06663b9ab6348b907ab": {
+                "description": "developer access",
+                "creation_date": "2024-09-20T17:26:46.355449",
+                "policy_content": "QGlkKCJkZXZlbG9wZXIgYWNjZXNzIikKZm9yYmlkCigKIHByaW5jaXBhbCA9PSBKYW5zOjpVc2VyOjoiRGV2ZWxvcGVyIiwKIGFjdGlvbiBpbiBbSmFuczo6QWN0aW9uOjoiTW9uaXRvciIsSmFuczo6QWN0aW9uOjoiU2VhcmNoIl0sCiByZXNvdXJjZSA9PSBKYW5zOjpBcHBsaWNhdGlvbjo6IkRldmVsb3BlclBvcnRhbCIKKQp3aGVuCnsKIEphbnM6OkFjY2Vzc190b2tlbjo6ImFiYyIuc2NvcGU9PSJSZWFkIiAgCn07"
             }
         },
         "identity_source": {},
