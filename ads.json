@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "co.basic": {}
+            "co.basic": {},
+            "org.gluu.agama.totp.pw": {}
         },
         "name": "gluu"
     }
