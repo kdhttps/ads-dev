@@ -1,0 +1,8 @@
+@id("without condition")
+permit
+(
+ principal == Jans::Role::"Admin",
+ action,
+ resource
+)
+;
