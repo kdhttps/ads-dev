@@ -1,0 +1,11 @@
+@id("forbid")
+forbid
+(
+ principal in Jans::Role::"Admin",
+ action in [Jans::Action::"Search",Jans::Action::"Tag"],
+ resource in Jans::Application::"AdminPortal"
+)
+when
+{
+ Jans::Access_token::"xxx".exp>123 && Jans::Access_token::"aaa".exp<321 || Jans::Access_token::"aaa".iat>=111  
+};
