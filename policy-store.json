@@ -36,7 +36,7 @@
             "c0adc2e76e73db2f4f2e0576769193eff323e617f18b": {
                 "description": "admin access",
                 "creation_date": "2024-09-24T12:13:57.720439",
-                "policy_content": "QGlkKCJhZG1pbiBhY2Nlc3MiKQpwZXJtaXQKKAogcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJBZG1pbiIsCiBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkNvbXBhcmUiLEphbnM6OkFjdGlvbjo6IkV4ZWN1dGUiXSwKIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoiQWRtaW4iCikKd2hlbgp7CiBKYW5zOjpBY2Nlc3NfdG9rZW46OiJhYmMiLnNjb3BlPT0iYWJjIiAmJiBKYW5zOjppZF90b2tlbjo6ImlkeHh4Ii5hbXI9PSJpZHh4eCIgIAp9Ow=="
+                "policy_content": "QGlkKCJhZG1pbiBhY2Nlc3MiKQpwZXJtaXQKKAogcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJBZG1pbiIsCiBhY3Rpb24sCiByZXNvdXJjZSA9PSBKYW5zOjpBcHBsaWNhdGlvbjo6IkFkbWluIgopCndoZW4KewogSmFuczo6QWNjZXNzX3Rva2VuOjoiYWJjIi5zY29wZT09ImFiYyIgIAp9Ow=="
             }
         },
         "identity_source": {},
