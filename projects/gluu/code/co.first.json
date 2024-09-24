@@ -85,10 +85,10 @@
 				},
 				"previousNodeId": "logNode-857bd610-9fa5-4822-aae5-befbcaa5271c",
 				"agamaData": {
-					"javaClassName": "",
-					"javaMethodName": "",
+					"javaClassName": "java",
+					"javaMethodName": "parseInt",
 					"javaVariableName": "",
-					"exceptionVariableField": "",
+					"exceptionVariableField": "E",
 					"callType": "Call static method",
 					"arguments": [],
 					"nodeIcon": "material-symbols:code",
@@ -97,13 +97,15 @@
 					"descColor": "",
 					"displayName": "",
 					"hasComment": true,
-					"comment": ""
+					"comment": "",
+					"asssignedVariableName": "obj"
 				}
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		}
 	],
 	"edges": [
