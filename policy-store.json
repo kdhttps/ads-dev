@@ -58,5 +58,12 @@
         "policies": {},
         "identity_source": {},
         "schema": ""
+    },
+    "8305900561006294600c2a5667978b54c5446a6a0aa5": {
+        "name": "test",
+        "description": "test",
+        "policies": {},
+        "identity_source": {},
+        "schema": ""
     }
 }
