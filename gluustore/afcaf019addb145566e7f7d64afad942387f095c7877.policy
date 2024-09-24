@@ -1,0 +1,11 @@
+@id("Sales Access")
+permit
+(
+ principal == Jans::Role::"Sales",
+ action in [Jans::Action::"Execute",Jans::Action::"Search",Jans::Action::"Share"],
+ resource == Jans::Application::"SalesPortal"
+)
+when
+{
+ Jans::Access_token::"aaa".scope=="readwrite"  
+};
