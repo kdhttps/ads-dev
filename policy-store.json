@@ -42,6 +42,11 @@
                 "description": "Sales Access",
                 "creation_date": "2024-09-24T13:47:14.630076",
                 "policy_content": "@id(\"Sales Access\")\npermit\n(\n principal == Jans::Role::\"Sales\",\n action in [Jans::Action::\"Execute\",Jans::Action::\"Search\",Jans::Action::\"Share\"],\n resource == Jans::Application::\"SalesPortal\"\n)\nwhen\n{\n Jans::Access_token::\"aaa\".scope==\"readwrite\"  \n};"
+            },
+            "8e07ff88b64edc5fd1a5b05e5f5d55bd48794fe1d023": {
+                "description": "test",
+                "creation_date": "2024-09-24T16:17:08.750598",
+                "policy_content": "QGlkKCJ0ZXN0IikKcGVybWl0CigKIHByaW5jaXBhbCwKIGFjdGlvbiwKIHJlc291cmNlCikKOw=="
             }
         },
         "identity_source": {},
