@@ -51,7 +51,7 @@
             "50be810123bbcb349ca982b57c2319aa9aae8ac9fc8f": {
                 "description": "test2",
                 "creation_date": "2024-09-24T17:59:15.097897",
-                "policy_content": "QGlkKCJ0ZXN0MiIpCmZvcmJpZAooCiBwcmluY2lwYWwsCiBhY3Rpb24sCiByZXNvdXJjZQopCjs="
+                "policy_content": "QGlkKCJ0ZXN0MiIpCmZvcmJpZAooCiBwcmluY2lwYWwgPT0gSmFuczo6Um9sZTo6IkFkbWluIiwKIGFjdGlvbiwKIHJlc291cmNlCikKOw=="
             }
         },
         "identity_source": {},
