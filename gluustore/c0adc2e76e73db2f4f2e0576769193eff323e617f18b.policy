@@ -1,11 +1,1 @@
-@id("admin access")
-permit
-(
- principal == Jans::Role::"Admin",
- action in [Jans::Action::"Compare",Jans::Action::"Execute"],
- resource == Jans::Application::"Admin"
-)
-when
-{
- Jans::Access_token::"abc".scope=="abc" && Jans::id_token::"idxxx".amr=="idxxx"  
-};
+QGlkKCJhZG1pbiBhY2Nlc3MiKQpwZXJtaXQKKAogcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJBZG1pbiIsCiBhY3Rpb24sCiByZXNvdXJjZSA9PSBKYW5zOjpBcHBsaWNhdGlvbjo6IkFkbWluIgopCndoZW4KewogSmFuczo6QWNjZXNzX3Rva2VuOjoiYWJjIi5zY29wZT09ImFiYyIgIAp9Ow==
