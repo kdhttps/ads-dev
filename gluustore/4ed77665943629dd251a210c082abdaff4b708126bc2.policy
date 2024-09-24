@@ -1,0 +1,11 @@
+@id("drop access")
+permit
+(
+ principal == Jans::User::"User",
+ action in [Jans::Action::"Write",Jans::Action::"Search",Jans::Action::"Share"],
+ resource in Jans::Application::"sdsd"
+)
+when
+{
+ Jans::Access_token::"aaa".scope=="aaa" && Jans::Access_token::"xxx".exp<111 || Jans::Access_token::"xxx".exp<=222 && context.network.isInRange(ip("222.222.222.0/24"))  
+};
