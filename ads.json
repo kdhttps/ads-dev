@@ -17,7 +17,8 @@
             "co.basic": {},
             "org.gluu.agama.totp.pw": {},
             "org.gluu.pw": {},
-            "co.first": {}
+            "co.first": {},
+            "org.gluu.agama.totp": {}
         },
         "name": "gluu"
     }
