@@ -1,11 +1,1 @@
-@id("Sales Access")
-permit
-(
- principal == Jans::Role::"Sales",
- action in [Jans::Action::"Execute",Jans::Action::"Search",Jans::Action::"Share"],
- resource == Jans::Application::"SalesPortal"
-)
-when
-{
- Jans::Access_token::"aaa".scope=="readwrite"  
-};
+QGlkKCJTYWxlcyBBY2Nlc3MiKQpwZXJtaXQKKAogcHJpbmNpcGFsID09IEphbnM6OlJvbGU6OiJTYWxlcyIsCiBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IkV4ZWN1dGUiLEphbnM6OkFjdGlvbjo6IlNlYXJjaCIsSmFuczo6QWN0aW9uOjoiU2hhcmUiXSwKIHJlc291cmNlID09IEphbnM6OkFwcGxpY2F0aW9uOjoiU2FsZXNQb3J0YWwiCikKd2hlbgp7CiBKYW5zOjpBY2Nlc3NfdG9rZW46OiJhYWEiLnNjb3BlPT0icmVhZHdyaXRlIiAgCn07
