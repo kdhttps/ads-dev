@@ -1,0 +1,8 @@
+@id("test")
+permit
+(
+ principal,
+ action,
+ resource
+)
+;
