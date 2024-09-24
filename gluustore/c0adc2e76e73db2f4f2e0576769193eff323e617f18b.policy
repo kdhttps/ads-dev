@@ -1,0 +1,11 @@
+@id("admin access")
+permit
+(
+ principal == Jans::Role::"Admin",
+ action in [Jans::Action::"Compare",Jans::Action::"Execute"],
+ resource == Jans::Application::"Admin"
+)
+when
+{
+ Jans::Access_token::"abc".scope=="abc" && Jans::id_token::"idxxx".amr=="idxxx"  
+};
