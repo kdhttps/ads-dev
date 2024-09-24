@@ -1,0 +1,23 @@
+Flow org.gluu.agama.totp
+     Basepath ""
+Log "@info Add some log message here."
+//  initialize auth server
+Call someService doSomething 
+//  Initialize CdiUtils
+Call someService doSomething 
+//  Declare authResult
+someValue = aVariable
+//  retry login 3 times
+Repeat 5 times max
+     //  Load login page and get username & pasword
+     rrfResult = RRF "aTemplate.ftlh" anArg
+     //  check username password auth
+     Call someService doSomething 
+     //  assign creds.username to authResult.uid
+     someValue = aVariable
+     //  authResult.success is true
+     When someVariable is true
+          it_qdtdm = {success:true, data: { userId: uid }}
+          Finish it_qdtdm
+it_cccwu = {success:true, data: { userId: uid }}
+Finish it_cccwu
