@@ -1,7 +1,7 @@
 @id("test2")
 forbid
 (
- principal,
+ principal == Jans::Role::"Admin",
  action,
  resource
 )
