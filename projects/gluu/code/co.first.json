@@ -1,35 +1,99 @@
 {
-  "nodes": [
-    {
-      "id": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
-      "type": "startNode",
-      "sourcePosition": "right",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "data": {
-        "id": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
-        "type": "startNode",
-        "position": {
-          "x": 30,
-          "y": 40
-        },
-        "agamaData": {
-          "isTopLevelFlow": true,
-          "basepath": "",
-          "configParams": "{}",
-          "nodeIcon": "material-symbols:line-start-square",
-          "timeout": "",
-          "inputs": "",
-          "configs": "",
-          "flowname": "co.first",
-          "displayName": "first",
-          "creationDate": "24/09/2024",
-          "hasComment": true,
-          "comment": ""
-        }
-      }
-    }
-  ]
+	"nodes": [
+		{
+			"id": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
+			"type": "startNode",
+			"sourcePosition": "right",
+			"position": {
+				"x": 30,
+				"y": 30
+			},
+			"data": {
+				"id": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
+				"type": "startNode",
+				"position": {
+					"x": 30,
+					"y": 40
+				},
+				"agamaData": {
+					"isTopLevelFlow": true,
+					"basepath": "",
+					"configParams": "{}",
+					"nodeIcon": "material-symbols:line-start-square",
+					"timeout": "",
+					"inputs": "",
+					"configs": "",
+					"flowname": "co.first",
+					"displayName": "first",
+					"creationDate": "24/09/2024",
+					"hasComment": true,
+					"comment": ""
+				}
+			},
+			"measured": {
+				"width": 170,
+				"height": 124
+			}
+		},
+		{
+			"id": "logNode-857bd610-9fa5-4822-aae5-befbcaa5271c",
+			"type": "logNode",
+			"position": {
+				"x": 350,
+				"y": 131
+			},
+			"data": {
+				"id": "logNode-857bd610-9fa5-4822-aae5-befbcaa5271c",
+				"type": "logNode",
+				"position": {
+					"x": 280,
+					"y": 30
+				},
+				"previousNodeId": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
+				"agamaData": {
+					"logMessage": "\"nifo\"",
+					"logLevel": "info",
+					"nodeIcon": "octicon:log-16",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"displayName": "",
+					"hasComment": true,
+					"comment": ""
+				}
+			},
+			"measured": {
+				"width": 170,
+				"height": 124
+			},
+			"selected": true,
+			"dragging": false
+		}
+	],
+	"edges": [
+		{
+			"id": "startNode-040bc307-3f07-49de-a52e-2df17d8de082-logNode-857bd610-9fa5-4822-aae5-befbcaa5271c",
+			"type": "default",
+			"source": "startNode-040bc307-3f07-49de-a52e-2df17d8de082",
+			"target": "logNode-857bd610-9fa5-4822-aae5-befbcaa5271c",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"label": "",
+			"labelBgStyle": {
+				"fill": "#009688",
+				"color": "#ffffff",
+				"fillOpacity": 0.7
+			},
+			"labelShowBg": true,
+			"sourceHandle": "source_startNode-040bc307-3f07-49de-a52e-2df17d8de082"
+		}
+	],
+	"viewport": {
+		"x": 0,
+		"y": 0,
+		"zoom": 1
+	}
 }
