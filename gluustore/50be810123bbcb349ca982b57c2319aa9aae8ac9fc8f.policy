@@ -1,0 +1,8 @@
+@id("test2")
+forbid
+(
+ principal,
+ action,
+ resource
+)
+;
