@@ -16,7 +16,8 @@
         "configs": {
             "co.basic": {},
             "org.gluu.agama.totp.pw": {},
-            "org.gluu.pw": {}
+            "org.gluu.pw": {},
+            "co.first": {}
         },
         "name": "gluu"
     }
