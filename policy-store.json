@@ -61,7 +61,27 @@
         "name": "test",
         "description": "test",
         "policies": {},
-        "identity_source": {},
+        "identity_source": {
+            "36bf9b88c39976907dd3c6aeed6550faae5884d930ed": {
+                "name": "gluu",
+                "description": "gluu idp",
+                "openid_configuration_endpoint": "https:://gluu.org/.well-known/openid-configuration",
+                "access_tokens": {
+                    "trusted": true
+                },
+                "id_tokens": {
+                    "trusted": true,
+                    "principal_identifier": "email"
+                },
+                "userinfo_tokens": {
+                    "trusted": true,
+                    "role_mapping": "role"
+                },
+                "tx_tokens": {
+                    "trusted": false
+                }
+            }
+        },
         "schema": ""
     }
 }
