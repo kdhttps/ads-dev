@@ -80,6 +80,23 @@
                 "tx_tokens": {
                     "trusted": false
                 }
+            },
+            "16604e43335541a5bc207afa47c6d3504d61c7d6faf5": {
+                "name": "test2",
+                "description": "test2 desc",
+                "openid_configuration_endpoint": "test2.com/well-known/openid-configuration",
+                "access_tokens": {
+                    "trusted": true
+                },
+                "id_tokens": {
+                    "trusted": true
+                },
+                "userinfo_tokens": {
+                    "trusted": true
+                },
+                "tx_tokens": {
+                    "trusted": true
+                }
             }
         },
         "schema": ""
