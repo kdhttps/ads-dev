@@ -64,7 +64,7 @@
         "identity_source": {
             "36bf9b88c39976907dd3c6aeed6550faae5884d930ed": {
                 "name": "gluu",
-                "description": "gluu idp",
+                "description": "gluu idp replace",
                 "openid_configuration_endpoint": "https:://gluu.org/.well-known/openid-configuration",
                 "access_tokens": {
                     "trusted": true
