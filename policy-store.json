@@ -103,7 +103,7 @@
                 "description": "ff",
                 "openid_configuration_endpoint": "ss",
                 "access_tokens": {
-                    "trusted": false
+                    "trusted": true
                 },
                 "id_tokens": {
                     "trusted": true
