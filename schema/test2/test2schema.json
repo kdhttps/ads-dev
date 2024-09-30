@@ -1,1 +1,1 @@
-{"test2":{"commonTypes":{},"entityTypes":{},"actions":{}}}
+{"test2":{"commonTypes":{"test":{"type":"Record","attributes":{"att1":{"type":"String"}}}},"entityTypes":{},"actions":{}}}
