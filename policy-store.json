@@ -82,7 +82,7 @@
                 }
             },
             "dd774de26dce30adb45017369fe9a1d4abd88ce7aba2": {
-                "name": "test",
+                "name": "test update",
                 "description": "test",
                 "openid_configuration_endpoint": "test.com",
                 "access_tokens": {
