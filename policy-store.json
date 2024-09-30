@@ -99,17 +99,17 @@
                 }
             },
             "9d91a9b5643ae3c12072cc8c446cdceeda0bbafc271c": {
-                "name": "fff",
+                "name": "fff update",
                 "description": "ff",
                 "openid_configuration_endpoint": "ss",
                 "access_tokens": {
                     "trusted": true
                 },
                 "id_tokens": {
-                    "trusted": true
+                    "trusted": false
                 },
                 "userinfo_tokens": {
-                    "trusted": true
+                    "trusted": false
                 },
                 "tx_tokens": {
                     "trusted": false
