@@ -1,4 +1,5 @@
 Flow co.basic
      Basepath ""
-// sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfs
 Log "@info info"
+obj | E = Trigger co.first abc
+     Override templates "path2/index.ftlh" "index.ftlh" "path2/home.ftlh" "home.ftlh" 
