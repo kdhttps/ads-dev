@@ -62,7 +62,7 @@
 					"descColor": "",
 					"displayName": "",
 					"hasComment": true,
-					"comment": "sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfsdfsdf sdfdsfds sdfsdf dsfsdfsd fsd fsd sd sd fsdf sfsdfdsfd fsfd sdfsdfdsfs"
+					"comment": ""
 				},
 				"skake": false
 			},
@@ -70,8 +70,53 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false
+		},
+		{
+			"id": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+			"type": "triggerNode",
+			"position": {
+				"x": 599,
+				"y": 189
+			},
+			"data": {
+				"id": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+				"type": "triggerNode",
+				"position": {
+					"x": 599,
+					"y": 189
+				},
+				"previousNodeId": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57",
+				"agamaData": {
+					"nodeIcon": "fluent-mdl2:trigger-approval",
+					"flowFileName": "co.first",
+					"arguments": "abc",
+					"asssignedVariableName": "obj",
+					"exceptionVariableField": "E",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"displayName": "",
+					"hasComment": true,
+					"comment": "",
+					"overrides": [
+						{
+							"from": "path2/index.ftlh",
+							"to": "index.ftlh"
+						},
+						{
+							"from": "path2/home.ftlh",
+							"to": "home.ftlh"
+						}
+					]
+				}
+			},
+			"measured": {
+				"width": 170,
+				"height": 124
+			},
+			"selected": false
 		}
 	],
 	"edges": [
@@ -93,6 +138,25 @@
 			},
 			"labelShowBg": true,
 			"sourceHandle": "source_startNode-e5215c9d-f149-4a82-a125-5bf369fe8a77"
+		},
+		{
+			"id": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57-triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+			"type": "default",
+			"source": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57",
+			"target": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"label": "",
+			"labelBgStyle": {
+				"fill": "#009688",
+				"color": "#ffffff",
+				"fillOpacity": 0.7
+			},
+			"labelShowBg": true,
+			"sourceHandle": "source_logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57"
 		}
 	],
 	"viewport": {
