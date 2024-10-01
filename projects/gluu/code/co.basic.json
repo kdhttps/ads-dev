@@ -70,7 +70,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false
 		},
 		{
@@ -91,7 +91,9 @@
 				"agamaData": {
 					"nodeIcon": "fluent-mdl2:trigger-approval",
 					"flowFileName": "co.first",
-					"arguments": "abc",
+					"arguments": [
+						"abc"
+					],
 					"asssignedVariableName": "obj",
 					"exceptionVariableField": "E",
 					"nodeColor": "",
@@ -100,23 +102,14 @@
 					"displayName": "",
 					"hasComment": true,
 					"comment": "",
-					"overrides": [
-						{
-							"from": "path2/index.ftlh",
-							"to": "index.ftlh"
-						},
-						{
-							"from": "path2/home.ftlh",
-							"to": "home.ftlh"
-						}
-					]
+					"overrides": []
 				}
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
 			},
-			"selected": false
+			"selected": true
 		}
 	],
 	"edges": [
