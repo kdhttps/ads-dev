@@ -1,8 +1,0 @@
-@id("test11")
-forbid
-(
- principal == gluu::User::"Admin",
- action,
- resource
-)
-;
