@@ -125,7 +125,7 @@
             "4f94c49e424265eef10aab54942696d6b0b9da6147c0": {
                 "description": "test1",
                 "creation_date": "2024-10-04T16:24:36.344619",
-                "policy_content": "QGlkKCJ0ZXN0MSIpCmZvcmJpZAooCiBwcmluY2lwYWwsCiBhY3Rpb24sCiByZXNvdXJjZQopCjs="
+                "policy_content": "QGlkKCJ0ZXN0MTEiKQpmb3JiaWQKKAogcHJpbmNpcGFsLAogYWN0aW9uLAogcmVzb3VyY2UKKQo7"
             }
         },
         "identity_source": {},
