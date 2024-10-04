@@ -130,8 +130,8 @@
         },
         "identity_source": {
             "7cd70d1e072306f6ff8a2ba54bed226981d7fdec9efd": {
-                "name": "testid",
-                "description": "id",
+                "name": "testiddddd",
+                "description": "iddd",
                 "openid_configuration_endpoint": "test.com",
                 "access_tokens": {
                     "trusted": false
