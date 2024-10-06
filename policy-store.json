@@ -123,9 +123,9 @@
         "description": "test2",
         "policies": {
             "2593f2585c9b2802bd35fb1372a1226e34f004822506": {
-                "description": "test3",
+                "description": "test333",
                 "creation_date": "2024-10-06T08:35:42.058359",
-                "policy_content": "QGlkKCJ0ZXN0MyIpCmZvcmJpZAooCiBwcmluY2lwYWwgPT0gZ2x1dTo6Um9sZTo6IkFkbWluIiwKIGFjdGlvbiwKIHJlc291cmNlCikKOw=="
+                "policy_content": "QGlkKCJ0ZXN0MzMzIikKZm9yYmlkCigKIHByaW5jaXBhbCA9PSBnbHV1OjpSb2xlOjoiQWRtaW4iLAogYWN0aW9uLAogcmVzb3VyY2UKKQo7"
             }
         },
         "identity_source": {},
