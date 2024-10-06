@@ -1,0 +1,8 @@
+@id("test3")
+forbid
+(
+ principal == gluu::Role::"Admin",
+ action,
+ resource
+)
+;
