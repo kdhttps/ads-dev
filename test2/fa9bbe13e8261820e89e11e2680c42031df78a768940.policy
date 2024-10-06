@@ -1,8 +1,0 @@
-@id("test4")
-permit
-(
- principal,
- action,
- resource in gluu::Application::"Admin"
-)
-;
