@@ -1,8 +1,8 @@
-@id("test4")
+@id("test44")
 permit
 (
  principal,
  action,
- resource in gluu::Application::"Admin"
+ resource in gluu::Application::"Admin4"
 )
 ;
