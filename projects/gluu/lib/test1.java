@@ -1,4 +1,4 @@
-class Test2 {
-    int n = 2;
-    int n2 = 22;
+class Test1 {
+    int n = 1;
+    int n2 = 11;
 }
