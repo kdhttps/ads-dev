@@ -1,4 +1,0 @@
-Flow co.first
-     Basepath ""
-Log "@info nifo"
-obj | E = Call java#parseInt 
