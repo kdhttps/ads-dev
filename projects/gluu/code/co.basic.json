@@ -74,35 +74,35 @@
 			"dragging": false
 		},
 		{
-			"id": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
-			"type": "triggerNode",
+			"id": "assignmentNode-11c75f9b-07ef-446e-9fc4-6d5eeec9904f",
+			"type": "assignmentNode",
 			"position": {
 				"x": 599,
 				"y": 189
 			},
 			"data": {
-				"id": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
-				"type": "triggerNode",
+				"id": "assignmentNode-11c75f9b-07ef-446e-9fc4-6d5eeec9904f",
+				"type": "assignmentNode",
 				"position": {
 					"x": 599,
 					"y": 189
 				},
 				"previousNodeId": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57",
 				"agamaData": {
-					"nodeIcon": "fluent-mdl2:trigger-approval",
-					"flowFileName": "co.first",
-					"arguments": [
-						"abc"
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "a",
+							"assignedVariableName": "a-b"
+						}
 					],
-					"asssignedVariableName": "obj",
-					"exceptionVariableField": "E",
+					"nodeIcon": "material-symbols:equal",
 					"nodeColor": "",
 					"titleColor": "",
 					"descColor": "",
 					"displayName": "",
 					"hasComment": true,
-					"comment": "",
-					"overrides": []
+					"comment": ""
 				}
 			},
 			"measured": {
@@ -133,10 +133,10 @@
 			"sourceHandle": "source_startNode-e5215c9d-f149-4a82-a125-5bf369fe8a77"
 		},
 		{
-			"id": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57-triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+			"id": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57-assignmentNode-11c75f9b-07ef-446e-9fc4-6d5eeec9904f",
 			"type": "default",
 			"source": "logNode-1f0f9f63-dede-4fec-8a3b-5dfe75d58b57",
-			"target": "triggerNode-e053188c-f6a9-48b3-ac06-9b43458ef158",
+			"target": "assignmentNode-11c75f9b-07ef-446e-9fc4-6d5eeec9904f",
 			"labelBgPadding": [
 				8,
 				4
