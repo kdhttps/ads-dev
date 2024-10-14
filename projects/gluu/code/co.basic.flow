@@ -1,4 +1,4 @@
 Flow co.basic
      Basepath ""
 Log "@info info"
-obj | E = Trigger co.first abc
+a-b = "a"
