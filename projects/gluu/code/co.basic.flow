@@ -1,4 +1,4 @@
 Flow co.basic
      Basepath ""
 Log "@info info"
-a-b = "a"
+ab = "a"
