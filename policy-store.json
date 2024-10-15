@@ -138,7 +138,7 @@
     },
     "e183462bff9c8daa4a1ce59e1d29d3b7119c88f0dbe9": {
         "name": "testname",
-        "description": "",
+        "description": "test name desc",
         "policies": {},
         "identity_source": {},
         "schema": ""
