@@ -93,7 +93,7 @@
 						{
 							"variableTypeCheck": true,
 							"assignmentExpression": "a",
-							"assignedVariableName": "a-b"
+							"assignedVariableName": "ab"
 						}
 					],
 					"nodeIcon": "material-symbols:equal",
