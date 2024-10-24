@@ -1,0 +1,8 @@
+@id("admin")
+permit
+(
+ principal == adsGluu::User::"admin",
+ action,
+ resource
+)
+;
