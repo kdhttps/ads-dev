@@ -32,7 +32,7 @@
                                 "type": "Jans::email_address",
                                 "regex_expression": "^(?P<UID>[^@]+)@(?P<DOMAIN>.+)$",
                                 "UID": {
-                                    "attr": "uid",
+                                    "attr": "UID",
                                     "type": "String"
                                 },
                                 "DOMAIN": {
