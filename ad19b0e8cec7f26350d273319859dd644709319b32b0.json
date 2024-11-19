@@ -13,7 +13,7 @@
                 "d8bcfae30074aca06b2650bb0128f6868d19eff3914b": {
                     "description": "desc",
                     "creation_date": "2024-11-19T09:06:23.589977",
-                    "policy_content": "QGlkKCJkZXNjIikKZm9yYmlkKHByaW5jaXBhbCwgYWN0aW9uLCByZXNvdXJjZSk7"
+                    "policy_content": "QGlkKCJkZXNjIikKZm9yYmlkKHByaW5jaXBhbCBpcyBmaXJzdDo6VXNlciBpbiBmaXJzdDo6VXNlcjo6ImFhIiwgYWN0aW9uLCByZXNvdXJjZSkgd2hlbiB7IChmaXJzdDo6QWNjZXNzX3Rva2VuOjoiYWJjIlsic2NvcGUiXSkgPT0gImFiYyIgfTs="
                 }
             },
             "trusted_issuers": {},
