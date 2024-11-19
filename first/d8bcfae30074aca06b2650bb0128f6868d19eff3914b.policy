@@ -1,2 +1,2 @@
 @id("desc")
-forbid(principal, action, resource);
+forbid(principal is first::User in first::User::"aa", action, resource) when { (first::Access_token::"abc"["scope"]) == "abc" };
