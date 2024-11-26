@@ -1,1 +1,1 @@
-{"first":{"commonTypes":{},"entityTypes":{},"actions":{}}}
+{"first":{"commonTypes":{"test":{"type":"Record","attributes":{"hello1":{"type":"String"}}}},"entityTypes":{},"actions":{}}}
