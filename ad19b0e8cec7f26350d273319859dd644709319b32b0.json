@@ -19,6 +19,11 @@
                     "description": "Please provide clear description for this policy.",
                     "creation_date": "2024-11-20T18:59:44.602598",
                     "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlKTs="
+                },
+                "507b6dbfe686d156f4e490d88933d77fa95f328ffd26": {
+                    "description": "test",
+                    "creation_date": "2024-11-28T08:32:59.050172",
+                    "policy_content": "QGlkKCJ0ZXN0IikKcGVybWl0KHByaW5jaXBhbCwgYWN0aW9uLCByZXNvdXJjZSk7"
                 }
             },
             "trusted_issuers": {
