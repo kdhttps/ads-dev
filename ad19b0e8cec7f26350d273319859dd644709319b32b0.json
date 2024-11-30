@@ -24,6 +24,11 @@
                     "description": "test",
                     "creation_date": "2024-11-28T08:32:59.050172",
                     "policy_content": "QGlkKCJ0ZXN0IikKcGVybWl0KHByaW5jaXBhbCwgYWN0aW9uLCByZXNvdXJjZSk7"
+                },
+                "861f2e5771c1ef51cab456d73cab60639c18dc9da440": {
+                    "description": "",
+                    "creation_date": "2024-11-30T17:18:18.000471",
+                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlKTs="
                 }
             },
             "trusted_issuers": {
