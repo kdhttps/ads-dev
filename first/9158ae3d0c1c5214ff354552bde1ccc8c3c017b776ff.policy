@@ -1,0 +1,2 @@
+@id("desc")
+forbid(principal, action, resource);
