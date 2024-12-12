@@ -8,7 +8,7 @@
                 "c02138071771ce8632d90cf456163ee000df10fb430a": {
                     "description": "admin allow",
                     "creation_date": "2024-12-12T12:13:55.318985",
-                    "policy_content": "QGlkKCJhZG1pbiBhbGxvdyIpCnBlcm1pdChwcmluY2lwYWwgPT0gZ2x1dTo6c3RvcmU6OlVzZXI6OiJhZG1pbiIsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
+                    "policy_content": "QGlkKCJhZG1pbiBhbGxvdyIpCnBlcm1pdChwcmluY2lwYWwgaW4gZ2x1dTo6c3RvcmU6OlJvbGU6OiJhZG1pbiIsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
                 }
             },
             "trusted_issuers": {},
