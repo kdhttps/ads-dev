@@ -1,0 +1,2 @@
+@id("allow admin")
+permit(principal, action, resource);
