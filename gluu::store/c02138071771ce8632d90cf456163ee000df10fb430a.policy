@@ -1,0 +1,2 @@
+@id("admin allow")
+permit(principal == gluu::store::User::"admin", action, resource);
