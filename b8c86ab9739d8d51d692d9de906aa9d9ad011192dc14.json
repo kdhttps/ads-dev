@@ -6,9 +6,9 @@
             "description": "seonc",
             "policies": {
                 "3669dbefb1de6988ed2f634d8bc1fd2561427a71c730": {
-                    "description": "",
+                    "description": "allow admin",
                     "creation_date": "2024-12-12T17:37:00.911237",
-                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsLCBhY3Rpb24sIHJlc291cmNlKTs="
+                    "policy_content": "QGlkKCJhbGxvdyBhZG1pbiIpCnBlcm1pdChwcmluY2lwYWwsIGFjdGlvbiwgcmVzb3VyY2UpOw=="
                 }
             },
             "trusted_issuers": {},
