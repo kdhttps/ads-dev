@@ -6,9 +6,9 @@
             "description": "sdsd",
             "policies": {
                 "1287e08a3b93509147938e1d008ab6176f807f7b1706": {
-                    "description": "",
+                    "description": "abc",
                     "creation_date": "2024-12-13T03:58:36.341232",
-                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsID09IHRoaXJkX3N0b3JlOjpVc2VyOjoiYWRtaW4iLCBhY3Rpb24sIHJlc291cmNlKTs="
+                    "policy_content": "QGlkKCJhYmMiKQpwZXJtaXQocHJpbmNpcGFsID09IHRoaXJkX3N0b3JlOjpVc2VyOjoiYWRtaW4iLCBhY3Rpb24sIHJlc291cmNlKTs="
                 }
             },
             "trusted_issuers": {},
