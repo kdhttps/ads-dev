@@ -9,6 +9,11 @@
                     "description": "abc",
                     "creation_date": "2024-12-13T03:58:36.341232",
                     "policy_content": "QGlkKCJhYmMiKQpwZXJtaXQocHJpbmNpcGFsID09IHRoaXJkX3N0b3JlOjpVc2VyOjoiYWRtaW4iLCBhY3Rpb24sIHJlc291cmNlKTs="
+                },
+                "a2033a5fdcdd3a95bd7a3b09e07432726d8265f241f4": {
+                    "description": "",
+                    "creation_date": "2024-12-13T04:03:01.193563",
+                    "policy_content": "QGlkKCIiKQpwZXJtaXQocHJpbmNpcGFsID09IHRoaXJkX3N0b3JlOjpVc2VyOjoiYWRtaW4iLCBhY3Rpb24sIHJlc291cmNlKTs="
                 }
             },
             "trusted_issuers": {},
