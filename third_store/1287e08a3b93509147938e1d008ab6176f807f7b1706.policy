@@ -1,2 +1,2 @@
-@id("")
+@id("abc")
 permit(principal == third_store::User::"admin", action, resource);
