@@ -29,14 +29,14 @@
                         "claim_mapping": {}
                     },
                     "id_tokens": {
-                        "trusted": false,
+                        "trusted": true,
                         "principal_identifier": "jtiid",
                         "user_id": "",
                         "role_mapping": "",
                         "claim_mapping": {}
                     },
                     "userinfo_tokens": {
-                        "trusted": true,
+                        "trusted": false,
                         "principal_identifier": "jtiuserinfo",
                         "user_id": "",
                         "role_mapping": "",
