@@ -1,0 +1,17 @@
+{
+  "third": {
+    "commonTypes": {
+      "email_address": {
+        "type": "Record",
+        "attributes": {
+          "domain": {
+            "type": "String"
+          },
+          "id": {
+            "type": "String"
+          }
+        }
+      },
+    }
+  }
+}
