@@ -51,7 +51,7 @@
                     }
                 }
             },
-            "schema": "eyJ0aGlyZF9zdG9yZV9yIjp7ImNvbW1vblR5cGVzIjp7fSwiZW50aXR5VHlwZXMiOnt9LCJhY3Rpb25zIjp7fX19"
+            "schema": "eyJ0aGlyZF9zdG9yZSI6eyJjb21tb25UeXBlcyI6e30sImVudGl0eVR5cGVzIjp7fSwiYWN0aW9ucyI6e319fQ=="
         }
     }
 }
