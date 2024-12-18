@@ -1,0 +1,92 @@
+{
+    "first": {
+        "commonTypes": {
+            "Context": {
+                "type": "Record",
+                "attributes": {
+                    "current_time": {
+                        "type": "EntityOrCommon",
+                        "name": "Long",
+                        "required": false
+                    },
+                    "device_health": {
+                        "type": "Set",
+                        "element": {
+                            "type": "EntityOrCommon",
+                            "name": "String"
+                        },
+                        "required": false
+                    },
+                    "fraud_indicators": {
+                        "type": "Set",
+                        "element": {
+                            "type": "EntityOrCommon",
+                            "name": "String"
+                        },
+                        "required": false
+                    },
+                    "geolocation": {
+                        "type": "Set",
+                        "element": {
+                            "type": "EntityOrCommon",
+                            "name": "String"
+                        },
+                        "required": false
+                    },
+                    "network": {
+                        "type": "EntityOrCommon",
+                        "name": "String",
+                        "required": false
+                    },
+                    "network_type": {
+                        "type": "EntityOrCommon",
+                        "name": "String",
+                        "required": false
+                    },
+                    "operating_system": {
+                        "type": "EntityOrCommon",
+                        "name": "String",
+                        "required": false
+                    },
+                    "user_agent": {
+                        "type": "EntityOrCommon",
+                        "name": "String",
+                        "required": false
+                    }
+                }
+            },
+            "Url": {
+                "type": "Record",
+                "attributes": {
+                    "host": {
+                        "type": "EntityOrCommon",
+                        "name": "String"
+                    },
+                    "path": {
+                        "type": "EntityOrCommon",
+                        "name": "String"
+                    },
+                    "protocol": {
+                        "type": "EntityOrCommon",
+                        "name": "String"
+                    }
+                }
+            },
+            "email_address": {
+                "type": "Record",
+                "attributes": {
+                    "domain": {
+                        "type": "EntityOrCommon",
+                        "name": "String"
+                    },
+                    "uid": {
+                        "type": "EntityOrCommon",
+                        "name": "String"
+                    }
+                }
+            }
+        },
+        "entityTypes": {},
+        "actions": {}
+    }
+}
