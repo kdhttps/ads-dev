@@ -12,7 +12,7 @@
                     "openid_configuration_endpoint": "https://test.com",
                     "token_metadata": {
                         "access_token": {
-                            "trusted": true,
+                            "trusted": false,
                             "entity_type_name": "Jans::Access_token",
                             "user_id": "sub",
                             "token_id": "jti",
