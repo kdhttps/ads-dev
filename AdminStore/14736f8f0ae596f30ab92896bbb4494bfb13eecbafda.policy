@@ -1,4 +1,4 @@
-@AcrsRead
+@id("AcrsRead")
 permit (
   principal is Jans::Workload,
   action in [Jans::Action::"GET"],
