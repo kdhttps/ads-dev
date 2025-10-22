@@ -14,6 +14,11 @@
                     "description": "AcrsWrite",
                     "creation_date": "2025-10-22T08:25:54.412473",
                     "policy_content": "QGlkKCJBY3JzV3JpdGUiKQpwZXJtaXQgKAogIHByaW5jaXBhbCBpcyBKYW5zOjpXb3JrbG9hZCwKICBhY3Rpb24gaW4gW0phbnM6OkFjdGlvbjo6IlBPU1QiXSwKICByZXNvdXJjZSA9PSBKYW5zOjpIVFRQX1JlcXVlc3Q6OiIvamFucy1jb25maWctYXBpL2FwaS92MS9hY3JzIgopCndoZW4gewogIHByaW5jaXBhbCBoYXMgYWNjZXNzX3Rva2VuLnNjb3BlICYmCiAgcHJpbmNpcGFsLmFjY2Vzc190b2tlbi5zY29wZS5jb250YWluc0FueSgKICBbImh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvYWNycy5yZWFkb25seSIsImh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvYWNycy53cml0ZSIsCiAgImh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvcmVhZC1hbGwiXSkKfTs="
+                },
+                "ef6561cf3ca6a7ceee782a2de7b3d06a0c2be644b650": {
+                    "description": "AttributeUpdate",
+                    "creation_date": "2025-10-22T08:31:36.590498",
+                    "policy_content": "QGlkKCJBdHRyaWJ1dGVVcGRhdGUiKQpwZXJtaXQoCnByaW5jaXBhbCBpcyBKYW5zOjpXb3JrbG9hZCwKYWN0aW9uIGluIFtKYW5zOjpBY3Rpb246OiJQT1NUIiwgSmFuczo6QWN0aW9uOjoiUFVUIiwgSmFuczo6QWN0aW9uOjoiUEFUQ0giXSwKcmVzb3VyY2UgPT0gSmFuczo6SFRUUF9SZXF1ZXN0OjoiL2phbnMtY29uZmlnLWFwaS9hcGkvdjEvYXR0cmlidXRlcyIKKQp3aGVuIHsKcHJpbmNpcGFsIGhhcyBhY2Nlc3NfdG9rZW4uc2NvcGUgJiYKcHJpbmNpcGFsLmFjY2Vzc190b2tlbi5zY29wZS5jb250YWluc0FueShbImh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvYXR0cmlidXRlcy53cml0ZSIsImh0dHBzOi8vamFucy5pby9vYXV0aC9jb25maWcvd3JpdGUtYWxsIl0pCn07"
                 }
             },
             "trusted_issuers": {},
