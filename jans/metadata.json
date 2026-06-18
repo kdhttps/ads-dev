@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "8c510d87be897cbf17da19324329fd9285846e797402",
+        "name": "jans",
+        "description": "jans",
+        "version": "0.0.1",
+        "created_date": "2026-06-18T17:24:56.503744+00:00",
+        "updated_date": "2026-06-18T17:24:56.503744+00:00"
+    }
+}
